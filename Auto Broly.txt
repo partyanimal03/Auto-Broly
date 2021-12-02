@@ -2,10 +2,10 @@ wait()
 --[[ Go Lower Form If Hp Runs Out Before Ki ]]--
 --[[ Best Free Autobroly ]]--
 LoadInTime = 2 --[[ Raise This If you don't do anything when loading into game ]]--
-AmountAllowed = 1 --[[ Includes yourself,    1 = no one else allowed, 2 = 1 person allowed, etc. ]]
+AmountAllowed = 2 --[[ Includes yourself,    1 = no one else allowed, 2 = 1 person allowed, etc. ]]
 Anchor = false  --[[ false is reccomended imo ]]--
-Ign = "CryaLaGoat" --[[ that username is an example lol just put ur own]]--
-Stat = "Phys-Damage" --[[ Phys-Resist, Ki-Max, Health-Max, Ki-Resist, Ki-Damage, Speed; all stats (this auto adds btw so set to nothing if u dont wanna add stats at all lol) ]]--|
+Ign = "996uhuh" --[[ that username is an example lol just put ur own]]--
+Stat = "" --[[ Phys-Resist, Ki-Max, Health-Max, Ki-Resist, Ki-Damage, Speed; all stats (this auto adds btw so set to nothing if u dont wanna add stats at all lol) ]]--|
 ChargeTime = 3 --[[ Write How Long It Takes  to Transform for ur form for arco and droid its 0 for other its around 3.6 ]]--
 FormType = "h" --[[ Type g or h depending on form type (in quotations) ]]--
 AutoBlock = true --[[ auto blocks when u attack (pai with autopunch) ]]--
